@@ -1,6 +1,3 @@
-# snippets-php-domain-records
-
-
 # tomstorms / Snippets / PHP Domain Records
 
 Snippet code demonstrating how you could potentially do domain/DNS verification checks in PHP.
